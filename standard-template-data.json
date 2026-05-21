@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-21T06:41:40.573253560Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-21T06:50:53.256402366Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "5182a5c5-a7ce-47e1-8bcf-8ddfc152e68b",
     "homepageId": "39787111-21d6-410b-8d80-36c220286dd0"
@@ -404,12 +404,21 @@
     "templateType": "full_banner_slider_flat",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "effdcf3b-98d7-4af6-ab0b-b65355f8c688",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/39787111-21d6-410b-8d80-36c220286dd0/logo/1779346219240-u5sjwtneqw.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
       "title": "강릉 그루 독채펜션",
-      "description": "",
+      "description": "숲과 자연 속 단 하나의 프라이빗한 쉼을 즐기는 강릉 그루 독채펜션",
       "keywords": "강릉펜션,강릉숙소,독채펜션,프라이빗펜션,강릉힐링,강릉그루"
     },
     "socialLinks": {
