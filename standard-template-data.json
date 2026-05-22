@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-05-22T00:27:46.386187549Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-05-22T05:00:24.256677887Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "5182a5c5-a7ce-47e1-8bcf-8ddfc152e68b",
     "homepageId": "39787111-21d6-410b-8d80-36c220286dd0"
@@ -25,7 +25,7 @@
     "province": "강원특별자치도",
     "city": "강릉시",
     "domain": "grupension.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/12336",
     "ybsId": "",
     "amenities": [
       "WiFi",
